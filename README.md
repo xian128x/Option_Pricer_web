@@ -1,6 +1,6 @@
 # Option Pricer Web
 
-A browser-based option pricing model that supports Black-Scholes, Binomial Tree, and Monte Carlo valuation methods for European and American call and put options. The application also computes Greeks, estimates implied volatility, and visualizes option payoff profiles. Built as a self-contained front-end web app in HTML, CSS, and JavaScript.  [oai_citation:0‡Classic.html](sediment://file_000000007cf0722f9568c6eaadf6de20)
+A browser-based option pricing model that supports Black-Scholes, Binomial Tree, and Monte Carlo valuation methods for European and American call and put options. The application also computes Greeks, estimates implied volatility, and visualizes option payoff profiles. Built as a self-contained front-end web app in HTML, CSS, and JavaScript.
 
 ## Features
 
